@@ -14,3 +14,14 @@ menuButton.addEventListener("click", () => {
         menuOpen = false;
     }
 });
+
+ document.addEventListener('DOMContentLoaded', () => {
+            const currentUrl = window.location.href;
+            const menuItems = document.querySelectorAll('.nav-item .nav-link');
+
+            menuItems.forEach(item => {
+                if (currentUrl === item.href) {
+                    item.classList.add('active');
+                }
+            });
+        });
