@@ -276,4 +276,23 @@
             .mobile-menu.open .mobile-menu--button::after {
                 transform: rotate(-45deg) translate(5px, 5px);
             }
+             .logo-mobile {
+                justify-content: left;
+                align-items: left;
+                display: flex;
+                text-align: left;
+                /* padding: 15px; */
+                padding-left: 25px;
+            }
+
         }
+
+        @media (min-width: 600px) {
+
+            /* Target screens wider than 768px (desktop) */
+            .logo-mobile {
+                display: none;
+            }
+        }
+
+
