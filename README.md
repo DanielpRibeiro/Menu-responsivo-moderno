@@ -1,8 +1,8 @@
-*Desktop*
+## Desktop 🖥️
 
-![image](https://github.com/DanielpRibeiro/Menu-responsivo-moderno/assets/78006439/2791304a-adcc-4bf5-a12e-fbdc9d20b220)
+![image](https://github.com/DanielpRibeiro/Menu-responsivo-moderno/assets/78006439/504665d7-0b5f-4590-b099-aec93e282170)
 
-*Mobile*
+## Mobile 📱
 
-![image](https://github.com/DanielpRibeiro/Menu-responsivo-moderno/assets/78006439/82346879-ecd1-4f4c-9cb5-5e9238cc041d)
+![image](https://github.com/DanielpRibeiro/Menu-responsivo-moderno/assets/78006439/d3e98b28-be68-4309-8a63-7e1c3b3b01d5)
 
