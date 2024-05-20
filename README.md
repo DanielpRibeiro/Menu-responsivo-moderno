@@ -4,5 +4,5 @@
 
 ## Mobile 📱
 
-![image](https://github.com/DanielpRibeiro/Menu-responsivo-moderno/assets/78006439/d3e98b28-be68-4309-8a63-7e1c3b3b01d5)
+![image](https://github.com/DanielpRibeiro/Menu-responsivo-moderno/assets/78006439/168640f4-2e53-47cc-86a5-c7b27a85c1e3)
 
